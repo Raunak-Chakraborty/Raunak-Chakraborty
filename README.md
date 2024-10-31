@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raunak-Chakraborty
-- 👀 I’m interested in Computational Thermo-Fluid Dynamics
-- 🌱 I’m currently learning C++, Python, openFOAM, cantera
-- 💞️ I’m looking to collaborate on openFOAM, cantera
+- 👀 I’m interested in Applications of Machine Learning and Computer Vision in Mechanical Engineering
+- 🌱 I mostly work in Python
+- 💞️ I’m looking to collaborate on the above topic
 - 📫 How to reach me raunakchakra@gmail.com
 
 <!---
